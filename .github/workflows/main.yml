@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2  # actions/checkout eyleminin güncel sürümünü kullanıyoruz.
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: Platane/snk@v0.0.8
         with:
