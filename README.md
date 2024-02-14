@@ -1,4 +1,4 @@
-[![MasterHead](https://www.alastyr.com/blog/wp-content/uploads/2021/09/front-end-developer-.jpg)
+[![MasterHead](https://ideacdn.net/idea/ct/82/myassets/blogs/fron-end-developer-becerileri.jpg?revision=1581875001)
 <h1 align="center">Hi 👋, I'm Leyla İbrahimova</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
